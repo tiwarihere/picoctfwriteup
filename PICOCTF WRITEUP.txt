@@ -1,0 +1,54 @@
+web exploitation 
+
+1 inspect0r by the name of the challenge it self, got an idea to inspect the website went to rrad the html code of the website,found written 1/3 of pico ctf code , searched for a hint and got to 
+know it has 3 parts, googled it and found out the 3 main parts of the webpage each contained a part of the code .
+
+
+picoCTF{tru3_d3 --t3ct1ve_0r_ju5t_lucky?f10be399}
+
+2 cookies , as the name suggests it was something related to the cookies of the website , so i went to settings and even inspected the 
+website but got nothing after brain storming for 30 mins i googled the challenge and got to know where to find the cookies of a website 
+that lead me to the answer 
+answer 
+picoCTF{3v3ry1_l0v3s_c00k135_cc9110ba}
+
+CRYPTOGRAPHY
+
+1 <mod26>
+
+ it was a simple +13 cryptography in which you add 13 to the numeric place value of the alphabet and decrypt the code
+
+2 <the numbers>
+
+ every number was a place value of alphabets 
+
+3 {13}
+
+simply rot 13 code.
+
+FORENSICS 
+
+1 information 
+
+first i downloaded the cat.jpg file attached , saw the hint and opened it in notepad , saw resource thought it is the flag tried it once by adding picoctf in the
+prefix but it was in correct googled and got to know it is a base 64 incryption so converted it from a online website and got the flag 
+
+picoCTF{the_m3tadata_1s_modified}
+
+2 glory of the garden 
+
+was clueless about this one, searched for hex editor got one online opened the file but was not able to find the flag took help from google and 
+got to know i was just 1 step away, searched for picoctf and got the flag
+
+
+
+GENERAL SKILLS 
+
+1 obidient cat 
+
+nothing, just open the text file and you get the flag
+
+2 warmed up
+
+simple hexadecimal to decimal conversion (61)
+
